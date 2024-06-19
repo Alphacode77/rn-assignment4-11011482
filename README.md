@@ -2,7 +2,7 @@
 
 # React Native Tab Navigation App
 
-This is a simple React Native application that demonstrates the use of bottom tab navigation with three components: `Frame`, `LogIn`, and `Homepage`.
+This is a simple React Native application that demonstrates the use of bottom tab navigation with three components: `Frame`, `Login`, and `Homepage`.
 
 # Table of Contents
 
